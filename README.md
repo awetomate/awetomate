@@ -1,6 +1,5 @@
 <div id="header" align="center">
-  <h2 align="center"><b>Hi, I'm John</b></h2>
-  <h2 align="center">A passionate network and voice engineer from Switzerland</h2>
+  <h2 align="center"><b>Hi, I'm John</b><br/>A passionate network and voice engineer from Switzerland</h2>
 </div>
 <br/>
 <div id="badges" align="center">
