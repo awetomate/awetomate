@@ -27,15 +27,15 @@
 <br/>
 <div id="stats" align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=awetomate&show_icons=true&locale=en&theme=nord&hide_border=true&count_private=true" alt="awetomate" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=awetomate&show_icons=true&locale=en&theme=nord&hide_border=true&count_private=true&card_width=400" alt="awetomate" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=awetomate&theme=nord&hide_border=true" alt="awetomate" />
+        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=awetomate&theme=nord&hide_border=true&card_width=400" alt="awetomate" />
     </a>
 </div>
 <br/>
 <div id="langs" align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=awetomate&show_icons=true&locale=en&layout=compact&theme=nord&hide_border=true" alt="awetomate" />
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=awetomate&show_icons=true&locale=en&layout=compact&theme=nord&hide_border=true&card_width=400" alt="awetomate" />
     </a>
 </div>
 <br/>
